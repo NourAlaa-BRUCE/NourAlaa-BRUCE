@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi there, I'm Nour Alaa - 👋</h1> -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Engineer" />
 </div>
 
 ###
