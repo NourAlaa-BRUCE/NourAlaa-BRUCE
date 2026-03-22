@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">## Hi there 👋 I'm Nour Alaa FrontEnd Developer<br><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💡 Passionate about **problem solving** and competitive programming  <br><br>🏆 Competitions & Achievements:  <br>- Participated in **ECPC**  <br>- Actively solving problems on **Codeforces**,  reaching **Expert** rating  <br><br>💻 Currently a **Front-End Engineer** working with **React & Next.js**, skilled in:  <br>- **Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>- **Frameworks & Tools:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, NPM, SASS  <br>- **Web Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>🚀 Always eager to learn new technologies and improve my coding & problem-solving skills.</p>
+<h2>Hi there 👋 I'm Nour Alaa FrontEnd Developer</h2>
+<p align="left"><br><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💡 Passionate about **problem solving** and competitive programming  <br><br>🏆 Competitions & Achievements:  <br>- Participated in **ECPC**  <br>- Actively solving problems on **Codeforces**,  reaching **Expert** rating  <br><br>💻 Currently a **Front-End Engineer** working with **React & Next.js**, skilled in:  <br>- **Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>- **Frameworks & Tools:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, NPM, SASS  <br>- **Web Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>🚀 Always eager to learn new technologies and improve my coding & problem-solving skills.</p>
 
 ###
 
