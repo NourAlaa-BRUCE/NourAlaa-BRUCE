@@ -1,39 +1,42 @@
-<h1 align="center">Hello everyone, I'm Nour Alaa👋</h1>
+<h1 align="center">Hi there, I'm Nour Alaa - 👋</h1>
 
 ###
 
-<h2>I'm FrontEnd Developer</h2>
-<p align="left">🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💡 Passionate about **problem solving** and competitive programming  <br><br>🏆 Competitions & Achievements:  <br>- Participated in **ECPC**  <br>- Actively solving problems on **Codeforces**,  reaching **Expert** rating  <br><br>💻 Currently a **Front-End Engineer** working with **React & Next.js**, skilled in:  <br>- **Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>- **Frameworks & Tools:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, NPM, SASS  <br>- **Web Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>🚀 Always eager to learn new technologies and improve my coding & problem-solving skills.</p>
+<h2 align="left">Front-End Engineer</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
 </div>
+
+###
+
+<p align="left"># 👨‍💻 About me<br><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💻 Front-End Engineer | React & Next.js | Tailwind CSS & TypeScript  <br>💡 Passionate about **problem solving**, competitive programming, and building responsive, modern web applications  <br><br>---<br><br>## 🏆 Achievements<br>- Participated in **ECPC**  <br>- Active **Codeforces** problem solver, almost reached **Expert** rating  <br><br>---<br><br>## 🛠️ Skills & Tech Stack<br><br>**Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>**Frameworks & Libraries:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, SASS  <br>**Other Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>---<br><br>## 💡 What I Do<br>- Build clean, responsive, and user-friendly web interfaces  <br>- Turn ideas and designs into functional front-end solutions  <br>- Continuously improve problem-solving and coding skills</p>
 
 ###
 
@@ -47,8 +50,29 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NourAlaa-BRUCE&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NourAlaa-BRUCE&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NourAlaa-BRUCE/NourAlaa-BRUCE/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NourAlaa-BRUCE/NourAlaa-BRUCE/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NourAlaa-BRUCE/NourAlaa-BRUCE/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NourAlaa-BRUCE.NourAlaa-BRUCE&"  />
+</div>
+
+###
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
