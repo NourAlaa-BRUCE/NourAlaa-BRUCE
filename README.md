@@ -35,11 +35,6 @@
 </div>
 
 ###
-
-<p align="left"># 👨‍💻 About me<br><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💻 Front-End Engineer | React & Next.js | Tailwind CSS & TypeScript  <br>💡 Passionate about **problem solving**, competitive programming, and building responsive, modern web applications  <br><br>---<br><br>## 🏆 Achievements<br>- Participated in **ECPC**  <br>- Active **Codeforces** problem solver, almost reached **Expert** rating  <br><br>---<br><br>## 🛠️ Skills & Tech Stack<br><br>**Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>**Frameworks & Libraries:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, SASS  <br>**Other Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>---<br><br>## 💡 What I Do<br>- Build clean, responsive, and user-friendly web interfaces  <br>- Turn ideas and designs into functional front-end solutions  <br>- Continuously improve problem-solving and coding skills</p>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -54,6 +49,10 @@
   <img src="https://streak-stats.demolab.com?user=NourAlaa-BRUCE&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
   <!-- <img src="https://github-profile-trophy.vercel.app?username=NourAlaa-BRUCE&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
+
+###
+
+<p align="left"># 👨‍💻 About me<br><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💻 Front-End Engineer | React & Next.js | Tailwind CSS & TypeScript  <br>💡 Passionate about **problem solving**, competitive programming, and building responsive, modern web applications  <br><br>---<br><br>## 🏆 Achievements<br>- Participated in **ECPC**  <br>- Active **Codeforces** problem solver, almost reached **Expert** rating  <br><br>---<br><br>## 🛠️ Skills & Tech Stack<br><br>**Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>**Frameworks & Libraries:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, SASS  <br>**Other Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>---<br><br>## 💡 What I Do<br>- Build clean, responsive, and user-friendly web interfaces  <br>- Turn ideas and designs into functional front-end solutions  <br>- Continuously improve problem-solving and coding skills</p>
 
 ###
 
