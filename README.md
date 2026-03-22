@@ -1,8 +1,6 @@
 <!-- <h1 align="center">Hi there, I'm Nour Alaa - 👋</h1> -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript&color=D1D5DB&center=true&vCenter=true&width=600&pause=1000&duration=2500" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript" />
 </div>
 
 ###
