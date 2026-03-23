@@ -81,8 +81,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourAlaa-BRUCE&theme=dracula&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlaa-BRUCE&layout=compact&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NourAlaa-BRUCE&theme=dracula&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlaa-BRUCE&layout=compact&theme=dracula" height="180" />
 </div>
 
 <div>
