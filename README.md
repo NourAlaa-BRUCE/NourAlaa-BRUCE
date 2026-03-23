@@ -80,7 +80,11 @@
 
 ###
 
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourAlaa-BRUCE&theme=dracula&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NourAlaa-BRUCE&theme=dracula&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlaa-BRUCE&layout=compact&theme=dracula" width="48%" />
+</div>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
