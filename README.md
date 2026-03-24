@@ -81,6 +81,7 @@
 <br>
 <hr>
 
+
 <p align="left"> <h3>👨‍💻 About me</h3><br>🎓 Third-year AI student at **Faculty of Computers and Artificial Intelligence, Cairo University**  <br>💻 Front-End Engineer | React & Next.js | Tailwind CSS & TypeScript  <br><h4>💡 Passionate about **</h4>problem solving**, competitive programming, and building responsive, modern web applications  <br><br>---<br><br><h3>## 🏆 Achievements</h3><br>- Participated in **ECPC**  <br>- Active **Codeforces** problem solver, almost reached **Expert** rating  <br><br>---<br><br><h3>## 🛠️ Skills & Tech Stack</h3><br><br>**Languages:** HTML5, CSS3, JavaScript (ES Next), TypeScript  <br>**Frameworks & Libraries:** React, Next.js, Tailwind CSS, Bootstrap 5, React Query, jQuery, SASS  <br>**Other Skills:** Responsive Web Design, AJAX, DOM & BOM manipulation, Asynchronous Programming, SEO Optimization  <br><br>---<br><br><h3>## 💡 What I Do</h3><br>- Build clean, responsive, and user-friendly web interfaces  <br>- Turn ideas and designs into functional front-end solutions  <br>- Continuously improve problem-solving and coding skills</p>
 
 
