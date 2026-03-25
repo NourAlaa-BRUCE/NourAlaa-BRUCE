@@ -1,12 +1,12 @@
 <!-- <h1 align="center">Hi there, I'm Nour Alaa - 👋</h1> -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2600&pause=900&color=FF6E96&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2600&pause=900&color=FF6E96&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Nour+Alaa;Front-End+Dveloper;React+%7C+Next.js+%7C+TypeScript" />
   
 </div>
 
 ###
 
-<h2 align="left">Front-End Engineer</h2>
+<h2 align="left">Front-End Dveloper</h2>
 
 ###
 
