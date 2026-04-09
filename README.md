@@ -87,11 +87,11 @@
 
 
 <br><br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NourAlaa-BRUCE&theme=dracula&show_icons=true" height="180" />
   <img width="50" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlaa-BRUCE&layout=compact&theme=dracula" height="300" />
-</div>
+</div> -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
