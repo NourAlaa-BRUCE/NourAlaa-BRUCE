@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Front-End Dثveloper</h2>
+<h2 align="left">Front-End Developer</h2>
 
 ###
 
