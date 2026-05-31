@@ -41,7 +41,7 @@
 ###
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nour-alaa-23b1913b9/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/nour-alaa-400135406/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
 
